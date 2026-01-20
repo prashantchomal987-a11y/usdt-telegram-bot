@@ -4,7 +4,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 BOT_TOKEN = "8034636115:AAENbPXiZPCJviI8iaIWl8y6fDm6YCtf_Ow"
 ADMIN_ID = 1603929921  # apni telegram id
 
-MIN_USDT = 100
+MIN_USDT = 50
 MAX_USDT = 5000000
 
 bot = telebot.TeleBot(BOT_TOKEN)
